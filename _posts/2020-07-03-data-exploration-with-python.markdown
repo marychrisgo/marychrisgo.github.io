@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Exploration with Python"
-date:   2020-06-29 16:16:45 +0800
+date:   2020-07-03 16:16:45 +0800
 categories: blog-post
 ---
 
