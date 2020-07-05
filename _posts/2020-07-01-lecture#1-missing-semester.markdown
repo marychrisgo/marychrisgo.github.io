@@ -7,9 +7,13 @@ categories: blog-post
 
 # Missing Semester IAP 2020
 
+<div style="text-align: justify">
 Computers are very powerful. But without the right tool, we won't be able to maximize its capacities. This course teaches a vast range of tools available that makes us more efficient in dealing with computer-related problems. 
 
 This blog post is part of my LecturesDuringQuarantine Series. I wrote this while watching the lecture videos (video and lecture links are provided). I only watched videos I think I will use in the future so I'm skipping some. 
+
+</div>
+<br/>
 
 **[Lecture 1: Shell using Bourne Again Shell](https://missing.csail.mit.edu/2020/course-shell/)**
 

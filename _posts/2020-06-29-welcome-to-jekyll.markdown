@@ -5,8 +5,6 @@ date:   2020-06-29 16:16:45 +0800
 categories: blog-post
 ---
 
-![mc](/_site/about/mcgonalds.png)
-
 <div style="text-align: justify">
 Hello. I'm Mc. A full-time procrastinator who attempts to do science. I have a wide spectrum of music taste. I have a playlist with Salbakuta's Stupid Love and Rimsky-Korsakov's Fight of the Bumblebee in it. If you see me, you can tell I am the **epitome of Asian beauty** aka my face is very common in Asia.  
 
