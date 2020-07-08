@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mentorship Hacks"
-date:   2020-07-08 12:11:45 +0800
+date:   2020-07-08 10:11:45 +0800
 categories: blog-post
 ---
 
