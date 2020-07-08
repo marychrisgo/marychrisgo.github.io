@@ -7,11 +7,11 @@ categories: blog-post
 
 # **Mentorship Hacks: The Do’s and Don’ts of Mentorship with Startup Founders** 
 
-Date Time: Jul 8, 2020 09:00 AM Hong Kong SAR
+*Date Time: Jul 8, 2020 09:00 AM Hong Kong SAR*
 
 <div style="text-align: justify">
 Last July 8, I attended a virtual talk about how start-up founders are spearheading and pushing the limits in the brainstorming of creative ways for efficient and effective collaboration. The talk revolved around how mentorship engagement is an essential factor of innovation. I thought of taking notes and posting it here ‘cause sharing is caring.
-<div/>
+</div>
 
 ##  **Personal Notes:**
 
