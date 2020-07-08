@@ -13,7 +13,7 @@ categories: blog-post
 Last July 8, I attended a virtual talk about how start-up founders are spearheading and pushing the limits in the brainstorming of creative ways for efficient and effective collaboration. The talk revolved around how mentorship engagement is an essential factor of innovation. I thought of taking notes and posting it here ‘cause sharing is caring.
 </div>
 
-##  **Personal Notes:**
+###  **Notes:**
 
  
 * Must for a mentor
