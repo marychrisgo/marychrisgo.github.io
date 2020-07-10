@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Lecture#2: Tableau EDA"
+date:   2020-07-10 9:28:45 +0800
+categories: blog-post
+---
+
+# **Tableau for Exploratory Data Analysis** 
+
+
+###  **Notes:**
+
+### Introduction to Tableau
+
+* Why Tableau is useful for data analysis?
+    * Visualization reduced mental work by translating data into visual elements
+        * Exploratory - finding insights
+        * Explanatory - conmmunicating insight
+    * A lot of options to connect to:
+        * MS Excel, csv, json,
+        * Google Sheets, BigQuery
+    * Calculated fields and join functionality similar to query logic 
+* Data Preparation
+    * Remove unnecessary calculated values
+    * Convert data to long format
+    * Make sure data types are correct
+* Hands-on
+    * Dimensions
+    * Measures
+        * Quantitative Data
+    *  Chart Building Area
+    * Marks Card
+        * Other visual settings
+    * New Sheet
+        * 1 sheet = 1 chart
+
+
+# Hands-on Tasks
+
+    * Kaggle dataset - Video Games
+    * Make a [dashboard](https://public.tableau.com/profile/mary.chris.go#!/vizhome/Games_dahsboard/Dashboard1) with three charts
+        * Sales per genre
+        * Sales per platform
+        * Sales per Games
+    * Create a join between two datasets 
+    * Answering questions about the Video games dataset
+        * Joining two datasets to explore 
+    * Not doable in free account
+        * Securing your data
+        * 10 GB capacity
+        * Data source limitations 
+            * Connect directly to SQL
+        * Can't save locally
